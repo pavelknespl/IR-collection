@@ -1,0 +1,8 @@
+Filetype: IR signals file   
+Version: 1
+# 
+name: Wnc
+type: parsed
+protocol: NEC
+address: 04 00 00 00
+command: 24 00 00 00

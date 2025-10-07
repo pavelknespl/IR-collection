@@ -1,0 +1,8 @@
+Filetype: IR signals file   
+Version: 1
+# 
+name: Fm
+type: parsed
+protocol: NEC
+address: 04 00 00 00
+command: 3C 00 00 00
